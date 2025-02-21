@@ -8,6 +8,7 @@ app = Flask(__name__)
 SERVERS = {
     "BOT 1": "https://bot1server.koyeb.app/",
     "BOT 2": "https://bot2server.koyeb.app/",
+    "SERVER": " https://prime-robby-bedicjjwsh-132a0edd.koyeb.app/",
 }
 
 def send_requests():
