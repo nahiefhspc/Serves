@@ -8,8 +8,12 @@ app = Flask(__name__)
 SERVERS = {
     "BOT 1": "https://bot1server.koyeb.app/",
     "BOT 2": "https://bot2server.koyeb.app/",
-    "SERVER": " https://prime-robby-bedicjjwsh-132a0edd.koyeb.app/",
-    "MOTION": " https://mute-mommy-brcjjejdj-0be63631.koyeb.app/",
+    "SERVER": "https://prime-robby-bedicjjwsh-132a0edd.koyeb.app/",
+    "MOTION": "https://mute-mommy-brcjjejdj-0be63631.koyeb.app/",
+    "Leech1": "https://concerned-ellyn-goejdj-c75adff2.koyeb.app/",
+    "Leech2": "https://absent-magdalen-ywdjcjs-ba359b35.koyeb.app/",
+    "Leech3": "https://pregnant-thrush-qfkcsjjc-ebbb9db4.koyeb.app/",
+    "Leech4": "https://current-sherilyn-wsdksk-454c250b.koyeb.app/",
 }
 
 def send_requests():
