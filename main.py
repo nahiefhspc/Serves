@@ -15,6 +15,7 @@ SERVERS = {
     "Leech3": "https://pregnant-thrush-qfkcsjjc-ebbb9db4.koyeb.app/",
     "Leech4": "https://current-sherilyn-wsdksk-454c250b.koyeb.app/",
     "Signup": "https://steady-darelle-qxckehc-2bf9bb53.koyeb.app/",
+    "DreamMit": "https://prominent-julianna-brxwsx-867f3a56.koyeb.app/",
 }
 
 def send_requests():
