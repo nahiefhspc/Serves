@@ -16,6 +16,7 @@ SERVERS = {
     "Leech4": "https://current-sherilyn-wsdksk-454c250b.koyeb.app/",
     "Signup": "https://steady-darelle-qxckehc-2bf9bb53.koyeb.app/",
     "DreamMit": "https://prominent-julianna-brxwsx-867f3a56.koyeb.app/",
+    "2ndaccount": "https://molecular-sondra-qcvosch-b97baa7f.koyeb.app/",
 }
 
 def send_requests():
