@@ -17,6 +17,7 @@ SERVERS = {
     "Signup": "https://steady-darelle-qxckehc-2bf9bb53.koyeb.app/",
     "DreamMit": "https://prominent-julianna-brxwsx-867f3a56.koyeb.app/",
     "2ndaccount": "https://molecular-sondra-qcvosch-b97baa7f.koyeb.app/",
+    "3602": "https://ministerial-rosalynd-brddxkj-321723bf.koyeb.app/",
 }
 
 def send_requests():
