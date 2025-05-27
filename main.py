@@ -19,6 +19,15 @@ SERVERS = {
     "2ndaccount": "https://molecular-sondra-qcvosch-b97baa7f.koyeb.app/",
     "3602": "https://ministerial-rosalynd-brddxkj-321723bf.koyeb.app/",
     "3603": "https://vital-junie-ckejcjdjwj-419a3721.koyeb.app/",
+    "saver": "https://protectorsop-2.onrender.com",
+    "Txt": "https://txesc.onrender.com",
+    "Txt2": "https://txesc-2.onrender.com",
+    "Txt3": "https://txesc-1.onrender.com",
+    "Txt4": "https://lulilele-3pci.onrender.com",
+    "Txt5": "https://lulilele-1-1ryu.onrender.com",
+    "Txt6": "https://upelckjwh.onrender.com",
+    "Txt7": "https://protectorsop-1.onrender.com",
+    
 }
 
 def send_requests():
