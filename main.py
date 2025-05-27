@@ -27,6 +27,7 @@ SERVERS = {
     "Txt5": "https://lulilele-1-1ryu.onrender.com",
     "Txt6": "https://upelckjwh.onrender.com",
     "Txt7": "https://protectorsop-1.onrender.com",
+    "txt8": "https://txesc-mm88.onrender.com",
     
 }
 
