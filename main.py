@@ -28,7 +28,7 @@ SERVERS = {
     "Txt6": "https://upelckjwh.onrender.com",
     "Txt7": "https://protectorsop-1.onrender.com",
     "txt8": "https://txesc-mm88.onrender.com",
-    
+    "Server1": "https://serves.onrender.com",
 }
 
 def send_requests():
