@@ -20,7 +20,7 @@ SERVERS = {
     "3602": "https://ministerial-rosalynd-brddxkj-321723bf.koyeb.app/",
     "3603": "https://vital-junie-ckejcjdjwj-419a3721.koyeb.app/",
     "saver": "https://protectorsop-2.onrender.com",
-    "Txt": "https://txesc.onrender.com",
+    "Txt": "https://txesc-4rql.onrender.com",
     "Txt2": "https://txesc-2.onrender.com",
     "Txt3": "https://txesc-1.onrender.com",
     "Txt4": "https://lulilele-3pci.onrender.com",
@@ -29,6 +29,7 @@ SERVERS = {
     "Txt7": "https://protectorsop-1.onrender.com",
     "txt8": "https://txesc-mm88.onrender.com",
     "Server1": "https://serves.onrender.com",
+    "PWEXTRACTOR": "https://protectorsop-4ulv.onrender.com",
 }
 
 def send_requests():
@@ -40,7 +41,7 @@ def send_requests():
             except Exception as e:
                 print(f"{bot_name} - Error: {e}")
         
-        time.sleep(100)  # Wait 60 seconds before sending the next batch
+        time.sleep(90)  # Wait 60 seconds before sending the next batch
 
 # Start the background thread
 thread = threading.Thread(target=send_requests, daemon=True)
