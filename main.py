@@ -35,6 +35,7 @@ SERVERS = {
     "SAMX3": "https://txesc-vqbm.onrender.com",
     "SAMX4": "https://txesc-4jbw.onrender.com",
     "SAMX5": "https://txesc-rbe3.onrender.com",
+    "SAMX6": "https://txesc-osdx.onrender.com",
 }
 
 def send_requests():
@@ -42,7 +43,7 @@ def send_requests():
         for bot_name, url in SERVERS.items():
             try:
                 response = requests.get(url)
-                print(f"{bot_name} - Response: {response.status_code}, {response.text}")
+                print(f"{bot_name} - Response: {response.status_code}")
             except Exception as e:
                 print(f"{bot_name} - Error: {e}")
         
