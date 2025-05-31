@@ -34,6 +34,7 @@ SERVERS = {
     "SAMX2": "https://txesc-79d0.onrender.com",
     "SAMX3": "https://txesc-vqbm.onrender.com",
     "SAMX4": "https://txesc-4jbw.onrender.com",
+    "SAMX5": "https://txesc-rbe3.onrender.com",
 }
 
 def send_requests():
