@@ -31,6 +31,7 @@ SERVERS = {
     "Server1": "https://serves.onrender.com",
     "PWEXTRACTOR": "https://protectorsop-4ulv.onrender.com",
     "SAMX1": "https://txesc-p3oa.onrender.com",
+    "SAMX2": "https://txesc-79d0.onrender.com",
 }
 
 def send_requests():
