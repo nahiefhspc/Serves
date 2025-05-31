@@ -30,6 +30,7 @@ SERVERS = {
     "txt8": "https://txesc-mm88.onrender.com",
     "Server1": "https://serves.onrender.com",
     "PWEXTRACTOR": "https://protectorsop-4ulv.onrender.com",
+    "SAMX1": "https://txesc-p3oa.onrender.com",
 }
 
 def send_requests():
