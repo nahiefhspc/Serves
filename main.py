@@ -36,6 +36,7 @@ SERVERS = {
     "SAMX4": "https://txesc-4jbw.onrender.com",
     "SAMX5": "https://txesc-rbe3.onrender.com",
     "SAMX6": "https://txesc-osdx.onrender.com",
+    "SERVER2": "https://gorgeous-ange-opechwxh-47aa648d.koyeb.app/",
 }
 
 def send_requests():
@@ -47,7 +48,7 @@ def send_requests():
             except Exception as e:
                 print(f"{bot_name} - Error: {e}")
         
-        time.sleep(90)  # Wait 60 seconds before sending the next batch
+        time.sleep(50)  # Wait 60 seconds before sending the next batch
 
 # Start the background thread
 thread = threading.Thread(target=send_requests, daemon=True)
