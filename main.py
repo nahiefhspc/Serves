@@ -48,7 +48,7 @@ def send_requests():
             except Exception as e:
                 print(f"{bot_name} - Error: {e}")
         
-        time.sleep(20)  # Wait 60 seconds before sending the next batch
+        time.sleep(1)  # Wait 60 seconds before sending the next batch
 
 # Start the background thread
 thread = threading.Thread(target=send_requests, daemon=True)
