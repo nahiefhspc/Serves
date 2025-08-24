@@ -6,6 +6,7 @@ import requests
 app = Flask(__name__)
 
 SERVERS = {
+    "Server": " https://serves-rvvg.onrender.com ",
     "Jaggo": "https://jaggo.onrender.com/",
     "SAMX 3": "https://txesc-vqbm-vnkh.onrender.com",
     "7th": "https://txesc-o52c.onrender.com",
@@ -16,6 +17,7 @@ SERVERS = {
     "2nd": "https://txesc-8ejn.onrender.com",
     "3rd": "https://txesc-1-s62m.onrender.com",
     "10th": "https://txesc-1-gq8v.onrender.com",
+    "Server": " https://serves-rvvg.onrender.com ",    
     "Jaggo": "https://jaggo.onrender.com/",
     "SAMX 3": "https://txesc-vqbm-vnkh.onrender.com",
     "7th": "https://txesc-o52c.onrender.com",
@@ -26,6 +28,7 @@ SERVERS = {
     "2nd": "https://txesc-8ejn.onrender.com",
     "3rd": "https://txesc-1-s62m.onrender.com",
     "10th": "https://txesc-1-gq8v.onrender.com",
+    "Server": " https://serves-rvvg.onrender.com ",    
     "Jaggo": "https://jaggo.onrender.com/",
     "SAMX 3": "https://txesc-vqbm-vnkh.onrender.com",
     "7th": "https://txesc-o52c.onrender.com",
