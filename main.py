@@ -17,7 +17,7 @@ SERVERS = {
     "2nd": "https://txesc-8ejn.onrender.com",
     "3rd": "https://txesc-1-s62m.onrender.com",
     "10th": "https://txesc-1-gq8v.onrender.com",
-    "9th": "https://txesc-1-bkiz.onrender.com ",
+    "9th": "https://txesc-1-bkiz.onrender.com",
     "Server": " https://serves-rvvg.onrender.com",    
     "Jaggo": "https://jaggo.onrender.com/",
     "SAMX 3": "https://txesc-vqbm-vnkh.onrender.com",
@@ -29,7 +29,7 @@ SERVERS = {
     "2nd": "https://txesc-8ejn.onrender.com",
     "3rd": "https://txesc-1-s62m.onrender.com",
     "10th": "https://txesc-1-gq8v.onrender.com",
-    "9th": "https://txesc-1-bkiz.onrender.com ",
+    "9th": "https://txesc-1-bkiz.onrender.com",
     "Server": " https://serves-rvvg.onrender.com",    
     "Jaggo": "https://jaggo.onrender.com/",
     "SAMX 3": "https://txesc-vqbm-vnkh.onrender.com",
@@ -41,7 +41,7 @@ SERVERS = {
     "2nd": "https://txesc-8ejn.onrender.com",
     "3rd": "https://txesc-1-s62m.onrender.com",
     "10th": "https://txesc-1-gq8v.onrender.com",
-    "9th": "https://txesc-1-bkiz.onrender.com ",
+    "9th": "https://txesc-1-bkiz.onrender.com",
 }
 
 def send_requests():
