@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 SERVERS = {
     "Server": " https://serves-rvvg.onrender.com",
     "Jaggo": "https://jaggo.onrender.com/",
-    "SAMX 3": "https://txesc-vqbm-vnkh.onrender.com",
+    "SAMX 3": "https://txesc-1-v8xj.onrender.com",
     "7th": "https://txesc-o52c.onrender.com",
     "Tryterbit": "https://txesc-phy7.onrender.com",
     "Savers": "https://txesc-iesl.onrender.com",
@@ -54,7 +54,7 @@ def run_pings():
         for name, url in SERVERS.items():
             ping_server(name, url)
         logger.info("=== Done. Sleeping 5 minutes ===")
-        time.sleep(0.01)  # 5 minutes
+        time.sleep(0.0001)  # 5 minutes
 
 # HTTP server to keep Render happy (prevents idling)
 class KeepAliveHandler(BaseHTTPRequestHandler):
