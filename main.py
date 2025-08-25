@@ -21,7 +21,7 @@ SERVERS = {
     "Tryterbit": "https://txesc-phy7.onrender.com",
     "Savers": "https://txesc-iesl.onrender.com",
     "SAMX 2": "https://txesc-80ix.onrender.com",
-    "4th": "https://txesc-aopv.onrender.com",
+    "4th": "https://txesc-zx9l.onrender.com",
     "2nd": "https://txesc-1-r75p.onrender.com",
     "3rd": "https://txesc-1-s62m.onrender.com",
     "10th": "https://txesc-1-gq8v.onrender.com",
