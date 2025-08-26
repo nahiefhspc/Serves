@@ -1,2 +1,2 @@
-flask
-requests
+requests==2.32.3
+pymongo==4.10.1
